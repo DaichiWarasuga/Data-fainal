@@ -1,4 +1,4 @@
-# Data-fainal
+# Data-final
 データサイエンスの最終課題のためのリポジトリ
 
 ## kaggletitanic.py
